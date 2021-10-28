@@ -1,5 +1,7 @@
 # Skatepark
 
+![preview image](https://github.com/yug2005/Skatepark/blob/master/Project%20Images/Skatepark%20Project%20Images%2001.png)
+
 ## Summary
 
 This blender project contains a detailed and realistic 3D modelling of a skatepark with multiple rails, ramps, and other features. The model has a total of 200.470 triangles. All components are UV mapped to allow for texture and material creation that are properly orientated on top of the mesh. 
